@@ -1,2 +1,2 @@
 another readme.md for git
-README up date from github.com
+README update from github.com
